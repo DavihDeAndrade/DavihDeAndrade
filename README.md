@@ -2,8 +2,8 @@ Hello there!
 
 I'm a computer enthusiast with a passion for technology and a keen interest in software and hardware development, IoT and cloud computing.
 
-  Languages: 
-    Python, JavaScript, TypeScript, C#, C++ 
+Languages: 
+  Python, JavaScript, TypeScript, C#, C++ 
   
 Frameworks: 
   React, React Native, NodeJS, Fast API, Node-RED
