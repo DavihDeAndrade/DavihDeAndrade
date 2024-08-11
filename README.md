@@ -14,13 +14,13 @@ Databases:
 Tools: 
   Git, Docker, AWS, Postman
   
-Current Interests: 
+Current interests: 
   Artificial Inteligence
   
 Currently learning: 
   JAVA
   
-Professional Experience:
+Professional experience and current work:
   Software developer and Automation/Electronics Technician in Senai Cimatec - Brazil.
   
   <!--
