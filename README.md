@@ -7,13 +7,13 @@ Skills:
   Frameworks: React, React Native, NodeJS, Fast API, Node-RED
   Databases: MySQL, SQL server, InfluxDB, SQLite
   Tools: Git, Docker, AWS, Postman
-
+  
 Current Interests: 
   Artificial Inteligence
-
+  
 Currently learning: 
   JAVA
-
+  
 Professional Experience:
   Software developer and Automation/Electronics Technician in Senai Cimatec - Brazil.
   
