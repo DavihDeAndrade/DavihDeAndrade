@@ -3,7 +3,7 @@ Hello there!
 I'm a computer enthusiast with a passion for technology and a keen interest in software and hardware development, IoT and cloud computing.
 
 Languages: 
-  Python, JavaScript, TypeScript, C#, C++ 
+  JAVA, Python, JavaScript, TypeScript, C#, C++
   
 Frameworks: 
   React, React Native, NodeJS, Fast API, Node-RED
@@ -12,16 +12,16 @@ Databases:
   MySQL, SQL server, InfluxDB, SQLite
   
 Tools: 
-  Git, Docker, AWS, Postman
+  Docker, AWS, Postman, Jmeter, Junit
+
+Currently learning:
+  API development with JAVA
   
 Current interests: 
   Artificial Inteligence
   
-Currently learning: 
-  JAVA
-  
 Professional experience and current work:
-  Software developer and Automation/Electronics Technician in Senai Cimatec - Brazil.
+  Software developer and Automation/Electronics Technician at Senai Cimatec - Brazil.
   
   <!--
 **DavihDeAndrade/DavihDeAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
