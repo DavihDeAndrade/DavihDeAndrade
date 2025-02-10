@@ -6,10 +6,10 @@ Languages:
   JAVA, Python, JavaScript, TypeScript, C#, C++
   
 Frameworks: 
-  React, React Native, NodeJS, Fast API, Node-RED
+  NodeJS, Fast API, Spring, Node-RED, React, React Native
   
 Databases: 
-  MySQL, SQL server, InfluxDB, SQLite
+  MySQL, SQL server, SQLite, InfluxDB
   
 Tools: 
   Docker, AWS, Postman, Jmeter, Junit
