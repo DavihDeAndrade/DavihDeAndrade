@@ -6,13 +6,13 @@ Languages:
   JAVA, Python, JavaScript, TypeScript, C#, C++
   
 Frameworks: 
-  NodeJS, Fast API, Spring, Node-RED, React, React Native
+  Spring Boot, Fast API, Hibernate, SQLAlchemy, NodeJS, Node-RED, React, React Native
   
 Databases: 
-  MySQL, SQL server, SQLite, InfluxDB
+  MySQL, PostgreSQL, Oracle, SQL server, SQLite, InfluxDB
   
 Tools: 
-  Docker, AWS, Postman, Jmeter, Junit
+  Docker, AWS, Postman, Jmeter, Junit, PyUnit
 
 Currently learning:
   API development with JAVA
