@@ -21,7 +21,7 @@ Current interests:
   Artificial Inteligence
   
 Professional experience and current work:
-  Software developer and Automation/Electronics Technician at Senai Cimatec - Brazil.
+  Software developer and Automation/Electronics Technician at SENAI CIMATEC - Brazil.
   
   <!--
 **DavihDeAndrade/DavihDeAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
