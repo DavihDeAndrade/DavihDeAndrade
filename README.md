@@ -13,12 +13,6 @@ Databases:
   
 Tools: 
   Docker, AWS, Postman, Jmeter, Junit, PyUnit
-
-Currently learning:
-  API development with JAVA
-  
-Current interests: 
-  Artificial Inteligence
   
 Professional experience and current work:
   Software developer and Automation/Electronics Technician at SENAI CIMATEC - Brazil.
