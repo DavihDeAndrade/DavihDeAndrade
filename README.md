@@ -6,16 +6,16 @@ Languages:
   JAVA, Python, JavaScript, TypeScript, C#, C++
   
 Frameworks: 
-  Spring Boot, Fast API, Hibernate, SQLAlchemy, NodeJS, Node-RED, React, React Native
+  Spring Boot, Fast API, Hibernate, SQLAlchemy, Node-RED, React, React Native
   
 Databases: 
-  MySQL, PostgreSQL, Oracle, SQL server, SQLite, InfluxDB
+  MySQL, PostgreSQL, OracleSQL, SQL server, SQLite, InfluxDB
   
 Tools: 
   Docker, AWS, Postman, Jmeter, Junit, PyUnit
   
 Professional experience and current work:
-  Software developer and Automation/Electronics Technician at SENAI CIMATEC - Brazil.
+  FullStack developer and Automation/Electronics Specialist at SENAI CIMATEC - Brazil.
   
   <!--
 **DavihDeAndrade/DavihDeAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
