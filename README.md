@@ -1,21 +1,21 @@
 Hello there!
 
-I'm a computer enthusiast with a passion for technology and a keen interest in software and hardware development, IoT and cloud computing.
+I'm a computer enthusiast with a passion for technology and a keen interest in software/hardware development, IoT/automation and cloud computing.
 
 Languages: 
-  JAVA, Python, JavaScript, TypeScript, C#, C++
+  JAVA, Python, TypeScript, C#
   
 Frameworks: 
-  Spring Boot, Fast API, Hibernate, SQLAlchemy, Node-RED, React, React Native
+  Spring Boot, Fast API, Express.Js, Hibernate, SQLAlchemy, React, React Native, Node-RED
   
 Databases: 
-  MySQL, PostgreSQL, OracleSQL, SQL server, SQLite, InfluxDB
+  PostgreSQL, MongoDB, Redis, MySQL, OracleSQL, SQL server, SQLite, InfluxDB
   
 Tools: 
   Docker, AWS, Postman, Jmeter, Junit, PyUnit
   
 Professional experience and current work:
-  FullStack developer and Automation/Electronics Specialist at SENAI CIMATEC - Brazil.
+  FullStack developer and Automation/Electronics Specialist at SENAI CIMATEC - Brazil
   
   <!--
 **DavihDeAndrade/DavihDeAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
