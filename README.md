@@ -12,7 +12,10 @@ Databases:
   PostgreSQL, MongoDB, Redis, MySQL, OracleSQL, SQL server, SQLite, InfluxDB
   
 Tools: 
-  Docker, AWS, Postman, Jmeter, Junit, PyUnit
+  Docker, Postman, Jmeter, Junit, PyUnit
+
+Clouds:
+  AWS, Azure
   
 Professional experience and current work:
   FullStack developer and Automation/Electronics Specialist at SENAI CIMATEC - Brazil
