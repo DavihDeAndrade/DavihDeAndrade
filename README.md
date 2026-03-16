@@ -11,6 +11,8 @@ My focus areas include:
 - Full-stack web and mobile applications
 - DevOps and Linux administration
 
+Also, i am currently pursuing a degree in Computer Engineering, with an expected graduation in the first half of 2027.
+
 ---
 
 ## Tech Stack
