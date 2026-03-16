@@ -3,10 +3,10 @@ Hello there!
 I'm a computer enthusiast with a passion for technology and a keen interest in software/hardware development, IoT/automation and cloud computing.
 
 Languages: 
-  JAVA, Python, TypeScript, C#
+  JAVA, Python, TypeScript
   
 Frameworks: 
-  Spring Boot, Fast API, Express.Js, Hibernate, SQLAlchemy, React, React Native, Node-RED
+  Spring Boot, Fast API, Express.Js, Fastify, Hibernate, SQLAlchemy, Svelte, React, React Native
   
 Databases: 
   PostgreSQL, MongoDB, Redis, MySQL, OracleSQL, SQL server, SQLite, InfluxDB
@@ -15,7 +15,7 @@ Tools:
   Docker, Postman, Jmeter, Junit, PyUnit
 
 Clouds:
-  AWS, Azure
+  AWS, Azure, Vercel
   
 Professional experience and current work:
   FullStack developer and Automation/Electronics Specialist at SENAI CIMATEC - Brazil
