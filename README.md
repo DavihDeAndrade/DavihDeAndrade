@@ -1,15 +1,15 @@
 ## About Me
 
-I am a FullStack Developer and Automation/Electronics Specialist at SENAI CIMATEC, Brazil. My work combines software engineering, IoT systems, and cloud infrastructure. I design and build solutions end-to-end, from embedded hardware logic to scalable distributed services, and i am comfortable operating across the full DevOps lifecycle, from containerization and CI/CD pipelines to deployment and infrastructure management on Linux environments.
+I am a FullStack Developer and Automation/Electronics Specialist at SENAI CIMATEC, Brazil. My work combines software engineering, IoT systems, and cloud infrastructure. I specialize in backend development and DevOps, designing and building robust, scalable services end-to-end, while also being capable across the full stack, from embedded hardware logic to web and mobile interfaces. I also have solid experience in Linux administration, managing systems, configuring environments, and maintaining infrastructure.
 
 My focus areas include:
 
 - Distributed backend systems and REST/event-driven APIs
 - OOP design patterns and clean, maintainable architecture
+- DevOps and Linux administration
 - IoT pipelines, industrial automation and embedded integrations
 - Cloud-native architectures
 - Full-stack web and mobile applications
-- DevOps and Linux administration
 
 Also, i am currently pursuing a degree in Computer Engineering, with an expected graduation in the first half of 2027.
 
@@ -20,6 +20,7 @@ Also, i am currently pursuing a degree in Computer Engineering, with an expected
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Backend Frameworks
