@@ -1,6 +1,6 @@
 ## About Me
 
-I am a FullStack Developer and Automation/Electronics Specialist at SENAI CIMATEC, Brazil. My work combines software engineering, IoT systems, and cloud infrastructure. I specialize in backend development and DevOps, designing and building robust, scalable services end-to-end, while also being capable across the full stack, from embedded hardware logic to web and mobile interfaces. I also have solid experience in Linux administration, managing systems, configuring environments, and maintaining infrastructure.
+I am a FullStack Developer and Automation/Electronics Specialist at SENAI CIMATEC, Brazil. My work combines software engineering, IoT systems, and cloud infrastructure. I specialize in backend development, designing and building robust, scalable services end-to-end, while also being capable across the full stack, from embedded hardware logic to web and mobile interfaces. I also have solid experience in Linux administration, managing systems, configuring environments, and maintaining infrastructure.
 
 My focus areas include:
 
@@ -11,7 +11,7 @@ My focus areas include:
 - Cloud-native architectures
 - Full-stack web and mobile applications
 
-Also, i am currently pursuing a degree in Computer Engineering, with an expected graduation in the first half of 2027.
+Also, i am currently pursuing a degree in Computer Engineering, with an expected graduation in the second half of 2027.
 
 ---
 
