@@ -11,7 +11,7 @@ My focus areas include:
 
 I have been working with research in Software Engineering fields for 9 years and i have been formally working with P&DI for 5 years. Every developed project is a new world with a different objective and new technologies to learn. A few areas i have already worked with:
 
-- Backend and frontend development (on-permise and cloud-native)
+- Backend and frontend development (on-premise and cloud-native)
 - Mobile development
 - Embedded systems
 - Distributed and parallel systems
